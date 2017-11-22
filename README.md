@@ -1,2 +1,6 @@
 # Hello-word
-Just another repository
+
+Hello!
+
+Learn always!
+To move is to live!
